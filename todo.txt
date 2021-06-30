@@ -1,0 +1,11 @@
+outward management
+	- PDF FILE TEMPLATE
+	- outward date backdate
+	- NO SAVE OPTION (AUTO SAVE) 
+stock management
+	-background
+
+inward management
+	- background
+dashboard frame
+	- padding in frame name
